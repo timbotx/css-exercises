@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.avatar.proportioned {
+
+width: 300px;
+
+}
+
+.avatar.distorted {
+
+    width: 200px;
+    height: 400px;
+    
+}
+
+/* only forgot the height auto, but otherwise understood the exercise, by chaining selections using the period */
