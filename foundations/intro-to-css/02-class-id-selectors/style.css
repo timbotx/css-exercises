@@ -1,0 +1,25 @@
+body {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p {
+    background-color: pink;
+    
+}
+
+#no2 {
+    color: blue;
+    font-size: 40px;
+}
+
+#no4 {
+
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#cooler {
+    font-size: 30px;
+}
